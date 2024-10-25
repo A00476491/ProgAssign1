@@ -5,4 +5,4 @@ The goal of the assignment is to simply combine 3 of these programs into a singl
 program that will recursively read a series of data files in CSV format and enter 
 them into a single file.
 
-Result can be seen in ./logs and ./result
+Result can be seen in ./logs and ./Output
